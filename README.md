@@ -1,3 +1,3 @@
 My first readme\
-updated\n
+updated\
 this is file README.md updated,shouq
